@@ -5,7 +5,7 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanferreiraa&layout=compact&theme=gotham" />
 </div>
 
-### Linguagens e ferramentas:
+### Linguagens:
 
 <div style="display: inline_block">
   <img align="center" alt="Jordan-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
