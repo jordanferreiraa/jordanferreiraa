@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Jordan Ferreira 👏
 
 <div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jordanferreiraa&show_icons=true&theme=gotham" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanferreiraa&layout=compact&theme=gotham" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=jordanferreiraa&show_icons=true&theme=gotham" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jordanferreiraa&layout=compact&theme=gotham" />
 </div>
 
 ### Linguagens e ferramentas:
@@ -19,8 +19,6 @@
   <img align="center" alt="Jordan-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
-##
-
 <div>
   <a href="https://www.linkedin.com/in/jordan-ferreira-sousa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
@@ -33,4 +31,4 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/jordanferreiraa/jordanferreiraa/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/jordanferreiraa/jordanferreiraa/output/github-contribution-grid-snake.svg)
